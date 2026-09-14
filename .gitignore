@@ -3,3 +3,4 @@
 # /vendor/b.php
 /vendor
 /nodemodule
+*.log
